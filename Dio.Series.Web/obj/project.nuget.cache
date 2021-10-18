@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h1+4CJ2Pqk016o0XGLuNgy4snoa/44JjOg4h63vp6KK/N1o6fw94SvzMTKOdkcHvgclHaRPa9xVRvN1QDIthVQ==",
+  "success": true,
+  "projectFilePath": "D:\\ADS\\Projetos\\Forks\\Dio.Series.Web\\Dio.Series.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

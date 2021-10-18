@@ -1,0 +1,16 @@
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\bin\Debug\netcoreapp3.1\DIO.SeriesConsole.exe
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\bin\Debug\netcoreapp3.1\DIO.SeriesConsole.deps.json
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\bin\Debug\netcoreapp3.1\DIO.SeriesConsole.runtimeconfig.json
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\bin\Debug\netcoreapp3.1\DIO.SeriesConsole.runtimeconfig.dev.json
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\bin\Debug\netcoreapp3.1\DIO.SeriesConsole.dll
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\bin\Debug\netcoreapp3.1\DIO.SeriesConsole.pdb
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\obj\Debug\netcoreapp3.1\DIO.SeriesConsole.csprojAssemblyReference.cache
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\obj\Debug\netcoreapp3.1\DIO.SeriesConsole.AssemblyInfoInputs.cache
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\obj\Debug\netcoreapp3.1\DIO.SeriesConsole.AssemblyInfo.cs
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\obj\Debug\netcoreapp3.1\DIO.SeriesConsole.csproj.CoreCompileInputs.cache
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\obj\Debug\netcoreapp3.1\DIO.SeriesConsole.csproj.CopyComplete
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\obj\Debug\netcoreapp3.1\DIO.SeriesConsole.dll
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\obj\Debug\netcoreapp3.1\DIO.SeriesConsole.pdb
+D:\ADS\Projetos\Forks\DIO.SeriesConsole\obj\Debug\netcoreapp3.1\DIO.SeriesConsole.genruntimeconfig.cache
